@@ -22,21 +22,22 @@ public class BeginnerTasks {
 //        System.out.println(beginnerTasks.getMinNum(2, 1, 0));
 
 
-    }
+
+     }
 
 
     //  1. İki tam ədədi parametr kimi qəbul edən və onların cəmini qaytaran sum ( int a, int b)metodu yazın.
 
-//    public int sum(int a, int b) {
-//        int result = a + b;
-//        return result;
-//    }
+    public static int sum(int a, int b) {
+        int result = a + b;
+        return result;
+    }
 
     //2. Heç bir dəyər qaytarmayan (void), ekrana "Salam, Dünya!" yazan metod yazın.
 
-//    public void sayHello() {
-//        System.out.println("Salam, Dunya!");
-//    }
+    public void sayHello() {
+        System.out.println("Salam, Dunya!");
+    }
 
     //3. Bir ədədi parametr kimi alıb onun kvadratını qaytaran metod yazın
 
@@ -137,4 +138,3 @@ public class BeginnerTasks {
 }
 
 
-// 14. main metodundan başqa bir metodu çağırıb nəticəsini ekrana çıxarın (sadə çağırış nümunəsi).
