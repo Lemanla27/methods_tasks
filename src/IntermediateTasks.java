@@ -209,5 +209,12 @@ public class IntermediateTasks {
 //        System.out.println(Arrays.toString(arr));
 //}
 
+    //8. String-i tərsinə çevirən metod yazın
+    // (həm dövrə, həm də rekursiya ilə iki fərqli versiya yazın).
+
+    }
+
+
+
 
 }
